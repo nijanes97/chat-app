@@ -1,0 +1,20 @@
+{
+  "name": "chat-app-backend",
+  "version": "0.0.1",
+  "description": "socket.io web chat app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nijanes97/chat-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nijanes97/chat-app/issues"
+  },
+  "homepage": "https://github.com/nijanes97/chat-app#readme"
+}
